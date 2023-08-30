@@ -1,1 +1,2 @@
 # oLab-GPT
+oLab GPT is a chat bot that transcends the ordinary. Bursting with quirky charm, it's designed to spark conversations that blend entertainment and enlightenment. Dive into discussions on anything from science to pop culture, and experience a symphony of insights delivered in a delightful and eccentric manner. Let oLab GPT be your sidekick in conversations that redefine the art of interaction.
